@@ -33,8 +33,8 @@ class Solution(object):
 
 
 strs = [
-        "aba",
-        "cba"
-        ]
+    "aba",
+    "cba"
+]
 s = Solution()
 print s.longestCommonPrefix(strs)
