@@ -28,4 +28,4 @@ class Solution(object):
 
 
 s = Solution()
-print s.countAndSay(6)
+print s.countAndSay(18)
