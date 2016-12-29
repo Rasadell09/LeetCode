@@ -17,3 +17,4 @@ class Solution(object):
 
 s = Solution()
 s.moveZeroes([0, 1, 0, 3, 12])
+print [11111]
